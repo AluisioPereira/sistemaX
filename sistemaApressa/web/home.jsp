@@ -70,7 +70,7 @@
        <div class="function-date">
         <ul>
         <h3> Conjunto 2</h3>
-            <li><a href=""> Gerenciamento de Feriados</a></li>
+            <li><a href="gerenciadata.jsp"> Gerenciamento de Feriados</a></li>
             <li><a href="">Funcionalidade2</a></li>
             <li><a href="">Funcionalidade3</a></li>
         </ul>
